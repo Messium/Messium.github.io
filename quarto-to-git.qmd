@@ -1,9 +1,0 @@
----
-title: "Untitled"
-format: html
-project:
-  type: website
-  output-dir: docs
----
-
-Test
